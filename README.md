@@ -1,7 +1,7 @@
 # mewiki
 Makeblock Wiki  
 mCore pin mapping  
-https://github.com/Makeblock-official/mBot/raw/master/pcb/mCore.pdf  
+[Pinout](https://github.com/Makeblock-official/mBot/raw/master/pcb/mCore.pdf)  
 A0 RJ25 plug 4 (default not-connected)  
 A1 RJ25 plug 4 (default not-connected)  
 A2 RJ25 plug 3 ultrasonic  
